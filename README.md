@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Lahiru Eranda</h1>
 <h3 align="center">🎓 Undergraduate in Software Engineering | 🧠 Passionate about problem-solving and creative thinking | 📚 Love to learn and teach | 💻 Competitive programmer | 🚀 Learning the PERN stack to enhance my development skills!</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahirueranda&label=Profile%20views&color=0e75b6&style=flat" alt="lahirueranda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahirueranda" alt="lahirueranda" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 - 🔭 I’m currently working on **EGATES**
 
 - 🌱 I’m currently learning **Flutter, Laravel**
 
-- 💬 Ask me about **PHP, Android, HTML, CSS**
+- 💬 Ask me about **PHP,Android,HTML,CSS**
 
 - 📫 How to reach me **lahiruerandainfo2@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
