@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Flutter, Laravel**
 
-- 💬 Ask me about **PHP,Android,HTML,CSS**
+- 🤩 join with me and power-up your idea. 
 
 - 📫 How to reach me **lahiruerandainfo2@gmail.com**
 
