@@ -8,14 +8,16 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
-<li>
 
-<ul> 🔭 I’m currently working on **EGATES (Start-Up)** </ul>
-<ul> 🌱 I’m currently learning **Flutter, Laravel** </ul>
-<ul> 💬 Ask me about **PHP,Android,HTML,CSS** </ul>
-<ul> 📫 How to reach me **lahiruerandainfo2@gmail.com** </ul>
 
-</li>
+- 🔭 I’m currently working on **EGATES (Start-Up)**
+
+- 🌱 I’m currently learning **Flutter, Laravel**
+
+- 💬 Ask me about **PHP,Android,HTML,CSS**
+
+- 📫 How to reach me **lahiruerandainfo2@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
