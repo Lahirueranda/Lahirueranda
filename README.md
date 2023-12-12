@@ -33,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahirueranda&show_icons=true&locale=en&layout=compact" alt="lahirueranda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahirueranda&show_icons=true&locale=en" alt="lahirueranda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lahirueranda&" alt="lahirueranda" /></p>
