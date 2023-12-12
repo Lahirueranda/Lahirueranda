@@ -24,6 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/lahiru-eranda-87818921a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahiru-eranda-87818921a/" height="30" width="40" /></a>
 <a href="https://fb.com/lahiru eranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lahiru eranda" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23088368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23088368" height="30" width="40" /></a>
 <a href="https://instagram.com/lahiruerandainfo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lahiruerandainfo1" height="30" width="40" /></a>
 </p>
 
