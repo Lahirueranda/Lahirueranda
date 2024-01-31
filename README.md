@@ -10,9 +10,7 @@
 
 
 
-- 🔭 I’m currently working on **EGATES (Start-Up)**
-
-- 🌱 I’m currently learning **Flutter, Laravel**
+- 🌱 I’m currently learning **React, Laravel**
 
 - 🤩 join with me and power-up your idea. 
 
