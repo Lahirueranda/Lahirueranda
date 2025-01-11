@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lahiru Eranda</h1>
-<h3 align="center">🎓 Undergraduate in Software Engineering | 🧠 Passionate about problem-solving and creative thinking | 📚 Love to learn and teach | 💻 Competitive programmer | 🚀 Learning the PERN stack to enhance my development skills!</h3>
+<h3 align="center">🎓 Undergraduate in Software Engineering | 🧠 Passionate about problem-solving and creative thinking | 📚 Love to learn and teach | 💻 Competitive programmer | 🚀 Learning the MERN stack to enhance my development skills!</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahirueranda&label=Profile%20views&color=0e75b6&style=flat" alt="lahirueranda" /> </p>
